@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2.1 (64-bit)
+# SW Build 1957588 on Wed Aug  9 16:32:24 MDT 2017
+# IP Build 1948039 on Wed Aug  9 18:19:28 MDT 2017
+# Start of session at: Tue Oct  3 20:12:52 2017
+# Process ID: 12428
+# Current directory: C:/hls-starter-1.0/coprocess/example/impl/verilog
+# Command line: vivado.exe -notrace -mode batch -source run_vivado.tcl
+# Log file: C:/hls-starter-1.0/coprocess/example/impl/verilog/vivado.log
+# Journal file: C:/hls-starter-1.0/coprocess/example/impl/verilog\vivado.jou
+#-----------------------------------------------------------
+source run_vivado.tcl -notrace
