@@ -1,0 +1,14 @@
+#########################################################################################################
+##	This is an example .gitignore file for Vivado, please treat it as an example as 
+##	it might not be complete. In addition, XAPP 1165 should be followed.
+#########################################################################################################
+#########
+#Exclude all
+#########
+*
+!*/
+!coprocess/vivado_hls.app
+!coprocess/example/src/*
+!coprocess/example/*.*
+
+!.gitignore
